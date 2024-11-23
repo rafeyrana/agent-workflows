@@ -5,12 +5,12 @@
 - Performance metrics are established for evaluation
 - Agents not able to incorporate generated visualizations and tables in the report
 - Agents unable to give valuable feedback.
-- Initial baseline capabilities are documented in [test_report.md](test_report.md)
+- Initial baseline capabilities are documented in [test_report](test_report.md)
 ### 2. Human Feedback Integration
 - Expert review of agent responses
 - Feedback incorporation through prompt engineering
 - Performance improvement tracking
-- Test results are documented in [training_report.md](training_report.md)
+- Test results are documented in [training_report](training_report.md)
 - Key metrics tracked:
   - Response accuracy
   - Resolution time
@@ -21,7 +21,7 @@
 - Comprehensive analysis of support agents performance
 - Key insights and recommendations
 - Future improvement strategies with Visualizations
-- Final results are documented in [final_report.md](final_report.md)
+- Final results are documented in [final_report](final_report.md)
 
 ### Data Analysis
 The project includes comprehensive analysis using Agents and Tasks using CrewAI:
